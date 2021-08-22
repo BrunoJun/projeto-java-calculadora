@@ -31,6 +31,12 @@ Este projeto tem como objetivo consolidar alguns dos conhecimentos aprendidos du
 
 ***
 
+## Licença
+
+Este projeto utiliza a licença MIT License. Para mais informações acesse <a href="https://github.com/BrunoJun/projeto-java-calculadora/blob/e40a479fde2347e6a4cb64f87e6edd2b037d3044/LICENSE">LICENSE</a>.
+
+***
+
 ## Autor
 
 Feito por Bruno Jun Amanai Yamada.
