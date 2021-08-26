@@ -27,7 +27,7 @@ Este projeto tem como objetivo consolidar alguns dos conhecimentos aprendidos du
 
 ## Status
 
-:construction: Em andamento :construction:
+:white_check_mark: Finalizado :white_check_mark:
 
 ***
 
