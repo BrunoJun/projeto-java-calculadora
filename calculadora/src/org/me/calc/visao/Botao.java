@@ -3,8 +3,8 @@ package org.me.calc.visao;
 import javax.swing.BorderFactory;
 import javax.swing.JButton;
 import javax.swing.plaf.FontUIResource;
-import java.awt.Font;
 
+import java.awt.Font;
 import java.awt.Color;
 
 public class Botao extends JButton{
